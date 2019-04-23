@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+}
+
+.main-home{
+  padding: 0 50px;
+  background-color: #c8c7ca;
+}
+
+nav {
+  padding-top: 30px;
+  position: fixed;
+  background-color: #c8c7ca;
+  width: 100%;
+}
+
+.logo {
+  display: inline-block;
+  letter-spacing: 3px;
+  font-size: 30px;
+  text-decoration: underline;
+  
+}
+
+.navigation-links {
+  display: inline-block;
+  margin-left: 850px;
+  font-weight: bold;
+  word-spacing: 15px;
+}
+
+.navigation-links a {
+  text-decoration: none;
+}
+a:hover {
+  color: deeppink;
+}
+
+#image {
+  width: 100%;
+  padding-top: 100px;
+}
+
+.heading-section img {
+  float: right;
+  border: 1px solid black;
+  margin: 5px 10px 10px 0px;
+}
