@@ -34,9 +34,20 @@ a:hover {
   color: #ffffff;
 }
 
+
+.email-subscribe {
+  display: flex;
+  padding: 20px 0 10px 990px;
+  flex-direction: column;
+}
+
+.email-subscribe p {
+  text-align: center;
+}
+
 #image {
   width: 100%;
-  padding: 100px 0;
+  padding: 0 0 100px 0;
   
 }
 
